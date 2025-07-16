@@ -1,5 +1,4 @@
-# wavelet-tree-mapping
-**Exploring Wavelet Trees as Space-Efficient Physical-to-Sorted Mapping for Learned Indexes**  
+# Exploring Wavelet Trees as Space-Efficient Physical-to-Sorted Mapping for Learned Indexes**  
 
 ## Overview
 
@@ -38,14 +37,13 @@ wavelet-tree-mapping/
 
 **Automatically fetched dependencies:**
 - [spdlog](https://github.com/gabime/spdlog)
-- [cxxopts](https://github.com/jarro2783/cxxopts)
 - [Roaring Bitmap](https://github.com/RoaringBitmap/CRoaring)
 - [RadixSpline](https://github.com/BU-DiSC/RadixSpline)
 - [LearnedSecondaryIndex](https://github.com/BU-DiSC/LearnedSecondaryIndex)
 
 ---
 
-## 🔨 Build Instructions
+## Build Instructions
 
 ```bash
 git clone --recurse-submodules https://github.com/BU-Di-SC/wavelet-tree-mapping.git
@@ -60,7 +58,7 @@ make <binary_name>
 
 ---
 
-## 🗃️ Generate Workloads
+## Generate Workloads
 
 Our tests use `.bin` format for workloads - it can be easily tweaked to accept csv as well.  
 We use the [BoDS framework](https://github.com/BU-DiSC/bods)
