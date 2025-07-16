@@ -1,0 +1,15 @@
+test
+compare_binsearch_wt
+*.csv
+__pycache__/
+build/
+_deps/
+CMakeFiles/
+
+**/*.csv
+**/*.txt
+**/*.log
+plots/.ipynb_checkpoints
+plots/.virtual_documents
+
+.cache/
