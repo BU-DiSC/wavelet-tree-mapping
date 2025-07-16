@@ -1,5 +1,4 @@
 # wavelet-tree-mapping
-
 **Exploring Wavelet Trees as Space-Efficient Physical-to-Sorted Mapping for Learned Indexes**  
 
 ## Overview
