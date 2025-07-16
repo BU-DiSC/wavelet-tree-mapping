@@ -13,3 +13,5 @@ plots/.ipynb_checkpoints
 plots/.virtual_documents
 
 .cache/
+
+!CMakeLists.txt
